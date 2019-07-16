@@ -1,0 +1,21 @@
+.big-banner{
+    background-image: url('images/background.jpg');
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.sometext{
+    text-align: center;
+    
+}
+
+.search-bar{
+  background-color: lightblue;
+  text-align: center;
+  color: black;
+}
+
+.card:hover{
+    border-color: green;
+}
